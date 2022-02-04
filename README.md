@@ -1,2 +1,2 @@
-# linear_regression_models
-Simple linear regression models
+# Linear Regression Models
+Simple linear regression models using Scikit-learn and Statsmodels (Python)
